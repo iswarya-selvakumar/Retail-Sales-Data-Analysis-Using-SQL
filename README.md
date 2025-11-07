@@ -1,4 +1,4 @@
-# Retail-Sales-Data-Analysis-Using-SQL
+# Retail-Sales-Data-Analysis-Using-SQL and Power BI
 
 ## 📘 Project Overview
 This project focuses on Retail Sales Data Analysis using **MySQL** for data cleaning, exploration, and analysis — and **Power BI** for visualization.
